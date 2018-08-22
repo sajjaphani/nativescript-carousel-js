@@ -1,0 +1,9 @@
+npm-debug.log
+.DS_Store   
+
+hooks/
+node_modules/
+platforms/
+tmp/
+typings/
+report/
